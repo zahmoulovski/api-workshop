@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+👋 Hi, I’m @zahmoulovski Med Yassine<br>
+👀 I’m interested in Android dev.<br>
+🌱 I’m currently learning Full stack developer at Gomycode.<br>
+💞️ I’m looking to collaborate on JS<br>
+📫 How to reach me medyassine.zahmoul@gmail.com or WhatsApp +21621858646# Getting Started with Create React App<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
